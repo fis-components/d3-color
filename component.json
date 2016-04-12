@@ -1,0 +1,10 @@
+{
+    "name": "d3-color",
+    "description": "Color spaces! RGB, HSL, Cubehelix, Lab and HCL (Lch).",
+    "repos": "https://github.com/d3/d3-color.git",
+    "main": "build/d3-color.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.3.1"
+}
